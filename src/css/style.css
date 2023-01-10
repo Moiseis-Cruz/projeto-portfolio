@@ -142,6 +142,10 @@ body {
     background-color:  #30b944; 
 }
 
+.redes-sociais .email {
+    background-color:  #d52700; 
+}
+
 .redes-sociais li a:hover {
     opacity: 0.8;
 }
