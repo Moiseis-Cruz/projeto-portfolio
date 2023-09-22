@@ -1,6 +1,6 @@
 # projeto-portfolio
 
-Um projeto feito no curso Dev Quest. Com as minhas customizações.
+Um projeto feito no curso Dev Quest. Com as minhas customizações sobre um miniportfólio.
 
 ## Descrição:
 
